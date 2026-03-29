@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Привет, я Дмитрий
 
-<!--
-**reshetnikovdimmi/reshetnikovdimmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Java-разработчик. До этого 5+ лет работал в IT-компании (deeplay) на позиции закупщика — знаю, как устроены процессы, умею работать с требованиями и анализировать данные.  
+Сейчас активно перехожу в разработку.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Мой стек
+
+**Java Core:** многопоточность, JDBC, Collections, Stream API  
+**Фреймворки и инструменты:** Spring Boot, Maven, Hibernate, JPA, PostgreSQL  
+**Инфраструктура:** Docker, Docker Compose, Git  
+**Тестирование:** JUnit 5, Mockito, Allure  
+**Межсервисное взаимодействие:** gRPC, Protobuf  
+**Дополнительно:** HTML, CSS, JavaScript (адаптивная вёрстка)
+
+---
+
+## 📌 Мои проекты
+
+### 1. [Сайт тату-мастера](https://tattoos-maxsim.ru) — веб-приложение
+- Java 17, Spring Boot, PostgreSQL, Thymeleaf, Docker
+- Адаптивная вёрстка, запись клиентов, админ-панель
+- Покрытие тестами (JUnit, Mockito), Allure-отчёты
+
+🔗 [Код на GitHub](https://github.com/reshetnikovdimmi/website-tattoos)
+
+---
+
+### 2. [gRPC Streaming Demo](https://github.com/reshetnikovdimmi/gRPC-streaming)
+- Демонстрация всех типов gRPC-стриминга на Java
+- Server Streaming, Client Streaming, Bidirectional Streaming
+- Чистая Java (без Spring), Maven, gRPC, Protobuf
+
+🔗 [Репозиторий](https://github.com/reshetnikovdimmi/gRPC-streaming)
+
+---
+
+## 💼 Что даёт мой опыт в закупках
+
+- Понимание бизнес-логики ERP-систем и процессов снабжения
+- Навыки аналитики, работы с данными и взаимодействия с разными отделами
+- Умение быстро вникать в предметную область
+
+---
+
+## 🎯 Моя цель
+
+Найти позицию **Junior Java Developer** в продуктовой или IT-компании, где смогу расти как разработчик и применять свои аналитические навыки.
+
+---
+
+📫 **Связаться со мной**  
+Telegram: [@reshetnikovdimmi](https://t.me/reshetnikovdimmi)  
+Email: reshetnikovdimmi@gmail.com
